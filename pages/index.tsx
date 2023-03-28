@@ -1,5 +1,5 @@
 import styles from '@/styles/Home.module.css';
-import { Toolbar } from '@/components/toolbar';
+import { Toolbar } from '@/components/Toolbar';
 
 export default function Home() {
   return (
