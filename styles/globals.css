@@ -19,6 +19,6 @@ a {
 
 .page-container {
   display: flex;
-  height: 100vh;
+  height: 90vh;
   flex-direction: column;
 }
